@@ -6,9 +6,9 @@ I design and obsess over User Experience for the web.
 - Developing applications to create color systems for UI components to comply with accessiblity standards. 
 - Freelancing fullstack developers, design, marketing, copywriting, and consulting. 
 
-#### Notable Projects
+<!-- #### Notable Projects
 - Software Engineer developing Certification Tools for embedded systems on marine vessel using the NMEA 2000 protocol.
-- Business-to-Business ecommerce vertical development. 
+- Business-to-Business ecommerce vertical development.  -->
 
 #### Work with Me
 Hire me to design your user experience and develop it for the web.
