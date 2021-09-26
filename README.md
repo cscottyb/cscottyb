@@ -1,3 +1,6 @@
+## ⚠️ Indigo Update
+DuckDuckGo has updated their UI and I'm working on updating the theme. 
+
 ### Hello World
 I design and obsess over User Experience for the web. 
 
